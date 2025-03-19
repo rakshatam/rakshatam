@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects related to deep learning and machine learning
 - 📫 How to reach me amityush2003@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am a bif fan of AGI and tries to learn the most about them
+- ⚡ Fun fact: i am a big fan of AGI and tries to learn the most about them
 
 <!---
 rakshatam/rakshatam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
