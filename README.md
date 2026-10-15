@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Amityush (aka @rakshatam) 👋</h1>
 
 <p align="center">
-  <em>Deep Learning Enthusiast | AGI Fan | Always Curious</em>
+  <em>Deep Learning Enthusiast and Systems Programming Learner</em>
 </p>
 
 ---
@@ -13,10 +13,10 @@
 ### About Me
 
 - **Name**: Amityush Nigam (aka @rakshatam)
-- **Interests**: Deep Learning, Self-Supervised Learning, Machine Learning
-- **Currently Learning**: More about deep learning
-- **Looking to Collaborate**: Any projects related to deep learning and machine learning
+- **Interests**: Deep Learning, Graphics and Systems Programming
+- **Looking to Collaborate**: Any projects related to deep learning and Systems Programming 
 - **Fun Fact**: I’m a big fan of AGI and always eager to learn more about it! 😄
+- **Languages**: Python,C++, Rust (learning), Next.js (Learning)
 
 ---
 
