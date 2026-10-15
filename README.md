@@ -13,7 +13,7 @@
 ### About Me
 
 - **Name**: Amityush Nigam (aka @rakshatam)
-- **Interests**: Deep Learning, Graphics and Systems Programming
+- **Interests**: Deep Learning and Systems Programming
 - **Looking to Collaborate**: Any projects related to deep learning and Systems Programming 
 - **Fun Fact**: I’m a big fan of AGI and always eager to learn more about it! 😄
 - **Languages**: Python,C++, Rust (learning), Next.js (Learning)
